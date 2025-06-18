@@ -10,7 +10,7 @@ Tuesday, June 24, 2025
 以下のボタンからGoogle Golabでノートブックを開いてください。  
 Open notebook on Google Colab with below button.
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/iwanaminami/seibutujikken2025/blob/main/moranprocess.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/iwanaminami/seibutsujikken2025/blob/main/moranprocess.ipynb)
 
 
 #### Googleアカウント / Google account
