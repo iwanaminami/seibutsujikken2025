@@ -34,5 +34,5 @@ If you do not have one, you can create it from the following link:
 TACTの小テストから回答する形で提出  
 Submit through `Tests & Quizzes` on the TACT.
 
-締め切り：2025年5月8日(木) 22時  
-Deadline: 10:00 PM on Thursday, May 8, 2025
+締め切り：2025年7月1日(火) 22時  
+Deadline: 10:00 PM on Tuesday, July 1, 2025
