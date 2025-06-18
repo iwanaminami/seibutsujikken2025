@@ -1,8 +1,9 @@
 # 名古屋大学前期・生物学実験
 
-2025年6月24日(火)
+2025年6月24日(火)  
+Tuesday, June 24, 2025
 
-## 演習
+## 演習 / Exercise
 
 ### プログラミングの演習の資料 / Notebook for the programing exercise
 
