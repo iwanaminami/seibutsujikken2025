@@ -1,4 +1,4 @@
-# 名古屋大学前期・生物学実験
+# 名古屋大学前期・生物学実験 / Laboratory in Biology (B)
 
 2025年6月24日(火)  
 Tuesday, June 24, 2025
@@ -10,7 +10,7 @@ Tuesday, June 24, 2025
 以下のボタンからGoogle Golabでノートブックを開いてください。  
 Open notebook on Google Colab with below button.
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/iwanaminami/tokuronXIV2025/blob/main/virusdynamics.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/iwanaminami/seibutujikken2025/blob/main/moranprocess.ipynb)
 
 
 #### Googleアカウント / Google account
@@ -31,10 +31,8 @@ If you do not have one, you can create it from the following link:
 
 ## レポート / Report
 
+TACTの小テストから回答する形で提出  
+Submit through `Tests & Quizzes` on the TACT.
+
 締め切り：2025年5月8日(木) 22時  
 Deadline: 10:00 PM on Thursday, May 8, 2025
-
-以下のURLからフォームに回答する形でレポートを提出  
-Please submit your report by completing the form at the URL below:
-
-[https://forms.office.com/r/YS3V9gFj1v](https://forms.office.com/r/dk9sJ8ad7P)
