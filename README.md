@@ -15,7 +15,7 @@ Open notebook on Google Colab with below button.
 
 #### Googleアカウント / Google account
 
-Google Colabratoryで実行するためには自身のGoogleアカウントでのログインが必要です。  
+Google Colaboratoryで実行するためには自身のGoogleアカウントでのログインが必要です。  
 To run this in Google Colaboratory, you need to be signed in with your Google account.
 
 Googleのサービス（GmailやYouTubeなど）にログインしているなら持っていると考えられます。  
