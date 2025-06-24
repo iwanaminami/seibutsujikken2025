@@ -12,6 +12,12 @@ Open notebook on Google Colab with below button.
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/iwanaminami/seibutsujikken2025/blob/main/moranprocess.ipynb)
 
+#### インターネットアクセス / Internet access
+
+NUWNET
+
+https://icts.nagoya-u.ac.jp/ja/services/nuwnet/
+
 
 #### Googleアカウント / Google account
 
