@@ -36,3 +36,9 @@ Submit through `Assignments` on the TACT.
 
 締め切り：2025年7月1日(火) 22時  
 Deadline: 10:00 PM on Tuesday, July 1, 2025
+
+## 連絡先
+
+- TACTを通じて連絡
+- ウェブサイト記載のメールアドレスに連絡  
+https://iblab.bio.nagoya-u.ac.jp/members/detail/s.iwanami
