@@ -39,6 +39,8 @@ Deadline: 10:00 PM on Tuesday, July 1, 2025
 
 ## 連絡先
 
-- TACTを通じて連絡
+- TACTを通じて連絡  
+Through TACT.
 - ウェブサイト記載のメールアドレスに連絡  
-https://iblab.bio.nagoya-u.ac.jp/members/detail/s.iwanami
+  To the email address on website.
+  - https://iblab.bio.nagoya-u.ac.jp/members/detail/s.iwanami
